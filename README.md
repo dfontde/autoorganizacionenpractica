@@ -1,2 +1,2 @@
 # autoorganizacionenpractica
-Nuestro libro de autoorganización en práctica
+Nuestro libro de patrones autoorganización en práctica
