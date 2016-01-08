@@ -8,4 +8,5 @@ Como parte del proceso de cambio, estas organizaciones deben cambiar la manera e
 
 No tener una forma definida y acceptada para resolver esas situaciones puede llevar a la organización a la inmovilidad o el caos.
 
+En este libro presentamos algunas formas, probadas en la práctica, para responder a las situaciones más comunes en el contexto de la auto organización.
 
