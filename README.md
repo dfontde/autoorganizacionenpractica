@@ -1,4 +1,4 @@
-# Autoorganización en práctica
+# Autoorganización en la práctica
 Iniciamos un libro con lo que esperamos sean consejos prácticos para personas que están en un nivel intermedio de implementación de autoorganización.
 
 
