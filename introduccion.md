@@ -1,5 +1,5 @@
 
-# Introduccion
+# Introducción
 
 
 Muchas organizaciones están cambiando desde formas de organización jerárquica a formas basadas en la autoorganización.
