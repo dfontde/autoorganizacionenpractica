@@ -19,21 +19,19 @@ Realizamos el encuentro en un espacio amplio, en el que podía alternar rápidam
 
 Construimos entre todos una lista inicial de posibles estructuras de equipos, independientemente de quiénes serían sus miembros.
 
-<Estos son tres ejemplos de posibles estructuras de equipos. Cada equipo sabe hacer entre uno y tres tipos de producto. En todos los casos, son capaces de hacerlos de principio a fin (esto implica que debe haber al menos una persona de cada especialidad en cada equipo).> (2)
+![Posibles estructuras](/images/TribusCaminantes2.jpg "Estos son tres ejemplos de posibles estructuras de equipos. Cada equipo sabe hacer entre uno y tres tipos de producto. En todos los casos, son capaces de hacerlos de principio a fin (esto implica que debe haber al menos una persona de cada especialidad en cada equipo).")
 
 Luego recorrimos esa lista, buscando alternativas de distribución de personas a equipos. Marcamos con claridad distintas zonas en el piso de la sala, que se correspondían con los distintos equipos que formaríamos, explicitando los conocimientos necesarios para cada uno. Todos los participantes se reunían en el centro, para luego caminar libremente hacia el equipo que integrarían.
 
-
-<Así se veía la sala desde arriba. Las dos zonas -una para cada equipo- marcadas en el piso y todas las personas en el centro.> (3)
-
+![Ejemplo 2 equipos](/images/TribusCaminantes3.jpg "Así se veía la sala desde arriba. Las dos zonas -una para cada equipo- marcadas en el piso y todas las personas en el centro.")
 
 Una vez estabilizada la distribución, yo le preguntaba al grupo completo si esta alternativa era una solución válida. Para responder sobre la validez, abría un debate y, si había acuerdo, registrábamos la alternativa en una pared de la sala.
 
-<Una vez estabilizada la distribución de equipos, la sala quedaba así, con todas las personas asignadas a un equipo. Esto lo fuimos repitiendo varias veces, buscando variantes de asignación para esta estructura.> (4)
+![Ejemplo 2 equipos ya asignados](/images/TribusCaminantes4.jpg "Una vez estabilizada la distribución de equipos, la sala quedaba así, con todas las personas asignadas a un equipo. Esto lo fuimos repitiendo varias veces, buscando variantes de asignación para esta estructura.")
 
 Repetimos esta dínámica de ir al centro y luego a los equipos hasta que el grupo entendía que esa estructura de equipos estaba agotada.
 
-<Luego intentamos con otras estructuras de equipos, en este caso eran tres equipos, uno para cada tipo de producto.> (5)
+![Ejemplo 3 equipos](/images/TribusCaminantes4.jpg "Luego intentamos con otras estructuras de equipos, en este caso eran tres equipos, uno para cada tipo de producto.")
 
 Finalmente revisamos en grupo todas las alternativas, cada persona votó su favorita y analizamos pros y contras de las mismas. Cerré la actividad recordando que el resultado no era vinculante.
 César utilizó esta información para diseñar los equipos que finalmente se implementaron.
