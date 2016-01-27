@@ -31,7 +31,7 @@ Una vez estabilizada la distribución, yo le preguntaba al grupo completo si est
 
 Repetimos esta dínámica de ir al centro y luego a los equipos hasta que el grupo entendía que esa estructura de equipos estaba agotada.
 
-![Ejemplo 3 equipos](/images/TribusCaminantes4.jpg "Luego intentamos con otras estructuras de equipos, en este caso eran tres equipos, uno para cada tipo de producto.")
+![Ejemplo 3 equipos](/images/TribusCaminantes5.jpg "Luego intentamos con otras estructuras de equipos, en este caso eran tres equipos, uno para cada tipo de producto.")
 
 Finalmente revisamos en grupo todas las alternativas, cada persona votó su favorita y analizamos pros y contras de las mismas. Cerré la actividad recordando que el resultado no era vinculante.
 César utilizó esta información para diseñar los equipos que finalmente se implementaron.
