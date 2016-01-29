@@ -7,4 +7,5 @@
 * [Sacrificio rotativo](sacrificio_rotativo.md)
 * Polinización cruzada
 * Facilitación cruzada
+* Iniciativas consultadas
 
