@@ -10,7 +10,7 @@ Creemos, por otro lado, que en muchos contextos relevantes en la actualidad la a
 **Contextos Relevantes**
 Cómo indicamos en la introducción, no es nuestro objetivo convencer que la autoorganización es buena, sino dar herramientas para que pueda aplicarse la autoorganización en forma efectiva.
 Muchas de las organizaciones con las que interactuamos tienen o han tenido una cultura fuertemente jerárquica y buscan ir hacia una organización orientada a Grupos.
-En esta situación,   
+Estas organizaciones buscan responder más rapidamente a un entorno cambiante, ser más creativos y otros objetivos que se lo
 
 ## Quienes somos los que hablamos
 
