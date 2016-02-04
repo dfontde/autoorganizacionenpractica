@@ -11,13 +11,16 @@ Organizaciones de Cotrol: ... breve descripción ...
 Organizaciones de Colaboración: ... breve descripción ... 
 
 **Contextos Relevantes**
-Cómo indicamos en la introducción, no es nuestro objetivo convencer que la autoorganización es buena, sino dar herramientas para que pueda aplicarse la autoorganización en forma efectiva.
-Muchas de las organizaciones con las que interactuamos tienen o han tenido una cultura fuertemente jerárquica y buscan ir hacia una organización orientada a Grupos.
-Estas organizaciones buscan responder más rapidamente a un entorno cambiante, ser más creativos y resultar ámbitos atractivos para personas talentosas. 
-
-## Quienes somos los que hablamos
+Cómo indicamos en la introducción, no es nuestro objetivo convencer que la autoorganización es buena, sino dar herramientas para a autoorganización efectiva. 
+Aún sin intentar justificar, nos parece útil compartir el contexto en el que observamos se está utilizando la autoorganización. La secuencia de razonamiento es:
+1. Muchas de las organizaciones con las que interactuamos buscan responder más rapidamente a un entorno cambiante, ser más creativos y resultar más atractivas como lugar de trabajo para personas talentosas.
+2. Para lograr lo anterior, las organizaciones buscan que cada uno de sus miembros participe plenamente en la solución de los problemas y situaciones nuevas que surgen permanentemente.
+3. Estas organizaciones tienen o han tenido una cultura fuertemente jerárquica (Control) y buscan ir hacia una organización orientada a Equipos (Colaboración).
 
 ## La autoorganización
+
+
+## Quienes somos los que hablamos
 
 
 
