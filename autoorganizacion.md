@@ -18,6 +18,20 @@ Aún sin intentar justificar, nos parece útil compartir el contexto en el que o
 3. Estas organizaciones tienen o han tenido una cultura fuertemente jerárquica (Control) y buscan ir hacia una organización orientada a Equipos (Colaboración).
 
 ## La autoorganización
+¿Qué significa autoorganización? ¿No tener jefes? ¿Definir nuestras propias reglas?
+
+
+
+
+Partamos de una definición genérica y llevemosla al sentido específico que le daremos en este libro: 
+> La **autoorganización** es un proceso en el que alguna forma global de orden o coordinación surge de las interacciones locales entre los componentes de un sistema inicialmente desordenado. Este proceso es espontáneo: no está dirigido ni controlado por ningún agente o subsistema dentro o fuera del sistema. Sin embargo las leyes seguidas por el proceso y sus condiciones iniciales pueden escogerse o ser causadas por un agente. Wikipedia 
+
+De la definición podemos tomar algunos términos y reemplazarlos por el uso que le daremos en el libro:
+* componentes: personas
+* sistema: grupo
+* agente o subsistema: jefe
+
+La **autoorganización** es un proceso en el que alguna forma global de orden o coordinación surge de las interacciones locales entre las personas de un grupo inicialmente desordenado. Este proceso es espontáneo: no está dirigido ni controlado por ningún jefe dentro o fuera del sistema. Sin embargo las leyes seguidas por el proceso y sus condiciones iniciales pueden escogerse o ser causadas por un jefe.
 
 
 ## Quienes somos los que hablamos
