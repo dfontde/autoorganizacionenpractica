@@ -33,8 +33,11 @@ De la definición podemos tomar algunos términos y reemplazarlos por el uso que
 
 La **autoorganización** es un proceso en el que alguna forma global de orden o coordinación surge de las interacciones locales entre las personas de un grupo inicialmente desordenado. Este proceso es espontáneo: no está dirigido ni controlado por ningún jefe dentro o fuera del sistema. Sin embargo las leyes seguidas por el proceso y sus condiciones iniciales pueden escogerse o ser causadas por un jefe.
 
-En esta la definición tomamos una escala, al hablar de grupos, que va entre 3 y 150 personas (tomando el número de Dunbar)  
-La autoorganización en las empresas tiene muchos paralelos con los procesos políticos, 
+En esta la definición tomamos una escala, al hablar de grupos, que va entre 3 y 150 personas (tomando el número de Dunbar). Si bien la autoorganización tiene muchos paralelos con los procesos políticos, nos enfocamos a prácticas y experiencias relacionadas con grupos. Aunque a veces usemos ejemplos políticos.
+
+Para agregar más detalle a la descripción, usaremos ejemplos:
+* En las monarquias electivas (Roma, Escandinavia) el rey es elegido por conjunto de electores (ciudadanos, nobles). Luego de la elección, y hasta la muerte del rey, es este el que manda.  
+
 
 ## Quienes somos los que hablamos
 
