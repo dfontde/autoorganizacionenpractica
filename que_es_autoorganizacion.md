@@ -36,7 +36,8 @@ La **autoorganización** es un proceso en el que alguna forma global de orden o 
 En esta la definición tomamos una escala, al hablar de grupos, que va entre 3 y 150 personas (tomando el número de Dunbar). Si bien la autoorganización tiene muchos paralelos con los procesos políticos, nos enfocamos a prácticas y experiencias relacionadas con grupos. Aunque a veces usemos ejemplos políticos.
 
 Para agregar más detalle a la descripción, usaremos ejemplos:
-* En las monarquias electivas (Roma, Escandinavia) el rey es elegido por conjunto de electores (ciudadanos, nobles). Luego de la elección, y hasta la muerte del rey, es este el que manda.  
+* En las monarquias electivas (Roma, Escandinavia) el rey es elegido por conjunto de electores (ciudadanos, nobles). Luego de la elección, y hasta la muerte del rey, es él el que manda. Es una forma de autoorganización limitada, que no fomenta la extensión de la autoorganización y que históricamente tiende perder aún esa versión reducida de autoorganización, llendo a una monarquía hereditaria. No pondremos focos en este tipo de prácticas.
+* En *The seven-day weekend* Ricardo Semler comenta un episodio en Semco, la 
 
 
 ## Quienes somos los que hablamos
