@@ -37,7 +37,8 @@ En esta la definición tomamos una escala, al hablar de grupos, que va entre 3 y
 
 Para agregar más detalle a la descripción, usaremos ejemplos:
 * En las monarquias electivas (Roma, Escandinavia) el rey es elegido por conjunto de electores (ciudadanos, nobles). Luego de la elección, y hasta la muerte del rey, es él el que manda. Es una forma de autoorganización limitada, que no fomenta la extensión de la autoorganización y que históricamente tiende perder aún esa versión reducida de autoorganización, llendo a una monarquía hereditaria. No pondremos focos en este tipo de prácticas.
-* En *The seven-day weekend* Ricardo Semler comenta un episodio en Semco, la empresa de la que es dueño. Estaban evaluando comprar una empresa y él estaba convencido que sería positiva. Pero   
+* ----
+* En *The seven-day weekend* Ricardo Semler comenta un episodio en Semco, la empresa de la que es dueño. Estaban evaluando comprar una empresa y él estaba convencido que sería positiva. Pero los directores no estaban de acuerdo y finalmente no se realizó la adquicisión
 
 
 ## Quienes somos los que hablamos
