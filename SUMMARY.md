@@ -8,4 +8,6 @@
 * Polinización cruzada
 * Facilitación cruzada
 * Iniciativas consultadas
+* [Glosario](GLOSSARY.md)
+* 
 
