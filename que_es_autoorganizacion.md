@@ -38,7 +38,7 @@ En esta la definición tomamos una escala, al hablar de grupos, que va entre 3 y
 Para agregar más detalle a la descripción, usaremos ejemplos:
 * En las monarquias electivas (Roma, Escandinavia) el rey es elegido por conjunto de electores (ciudadanos, nobles). Luego de la elección, y hasta la muerte del rey, es él el que manda. Es una forma de autoorganización limitada, que no fomenta la extensión de la autoorganización y que históricamente tiende perder aún esa versión reducida de autoorganización, llendo a una monarquía hereditaria. No pondremos focos en este tipo de prácticas.
 * 
-* En una gran organización de salud, la PMO requeria planificación usando un diagrama de Gantt con responsales asignados. En esta organización la líder del proyecto negoció un acuerdo en el que la planificación se representaba con 
+* En una gran organización de salud, la PMO requeria planificación usando un diagrama de Gantt con responsales asignados. En esta organización la líder del proyecto negoció un acuerdo con la PMO para len el que la planificación se representaba con 
 * En *The seven-day weekend* Ricardo Semler comenta un episodio en Semco, la empresa de la que es dueño. Estaban evaluando comprar una empresa y él estaba convencido que sería positiva. Pero los directores no estaban de acuerdo y finalmente no se realizó la adquicisión. En su análisis posterior él cree que fue buena la decisión porque, sin en acuerdo de los que iban a llevar adelante el día a día de la adquicisión, no hubiera funcionado. En este caso vemos la toma de decisiones al más alto nivel realizadas de una manera que incuye en la decisión a muchos de los afectados por la decisión, aunque a priori parecería haber alguien con autoridad (el dueño) como para tomar esa decisión.
 
 
