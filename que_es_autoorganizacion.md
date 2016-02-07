@@ -13,10 +13,10 @@ Organizaciones de Cotrol: TODO:  breve descripción
 Organizaciones de Colaboración: TODO: breve descripción 
 
 
-**Contextos Relevantes**
+## Contextos Relevantes
 Cómo indicamos en la introducción, no es nuestro objetivo convencer que la autoorganización es buena, sino dar herramientas para a autoorganización efectiva. 
 Aún sin intentar justificar, nos parece útil compartir el contexto en el que observamos se está utilizando la autoorganización. El razonamiento que encontramos a menudo es:
-1. Muchas de las organizaciones con las que interactuamos buscan responder más rapidamente a un entorno cambiante, ser más creativos y resultar más atractivas como lugar de trabajo para personas talentosas.
+1. Las organizaciones buscan responder más rapidamente a un entorno cambiante, ser más creativos y resultar más atractivas como lugar de trabajo para personas talentosas.
 2. Para lograr lo anterior, las organizaciones buscan que cada uno de sus miembros participe plenamente en la solución de los problemas y situaciones nuevas que surgen permanentemente.
 3. Estas organizaciones tienen o han tenido una cultura fuertemente jerárquica (Control) y buscan ir hacia una organización orientada a Equipos (Colaboración).
 
