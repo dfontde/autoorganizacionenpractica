@@ -7,3 +7,8 @@ La **autoorganización** es un proceso en el que alguna forma global de orden o 
 ## número de Dunbar
 
 Límite cognitivo al númeo de personas con las que podemos mantener una relación social estable.
+
+
+## PMO
+
+La Project Management Office, es la orgainzación encargada de mantener los estándares de gestión de los proyectos, y brindar una información actualizada del estado y evolución de la cartera de proyectos de la organización.
