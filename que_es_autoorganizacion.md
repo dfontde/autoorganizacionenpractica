@@ -42,5 +42,4 @@ Para agregar más detalle a la descripción, usaremos ejemplos:
 
 ## Quienes somos los que hablamos
 
-
-
+TODO: venimos de Agile Software Dev
