@@ -5,13 +5,13 @@ La misma persona realiza todas las actividades necesarias para resolver un probl
 ## Alias
 El que cocina limpia
 
-## Contexto
+## Motivación
 “Cuando mi papá cocina, lava cada cosa que usa antes de seguir adelante, de manera que su cocina está siempre limpia y cuando termina no deja nada pendiente (o casi nada). En cambio, en la casa de mis tíos, cocina mi tía, y después de comer, el que lava todo es mi tío. Mi tía muchas veces necesita usar nuevamente algún utensilio que está sucio, y eso la incomoda. En ese caso usa otro y otro y otro, y puede terminar con diez cuchillos sucios. Esa cocina suele estar más sucia y desordenada que la de mi papá.”, cuenta Diego.
 
 En una familia, si el papá cocina y va lavando cada cosa que usa, su cocina está siempre limpia. Cuando termina no queda nada pendiente (o casi nada). En cambio, en otra familia, cocina la tía, y después de comer, el que lava todo es el tío. La tía muchas veces necesita usar nuevamente algún utensilio que está sucio, y eso la incomoda. En ese caso usa otro y otro y otro, y puede terminar con diez cuchillos sucios. Esa cocina suele estar más sucia y desordenada que la primera.
 Para ilustrarlo con otro ejemplo, si un fabricante de electrodomésticos es responsable por ley de su posterior reciclado, es más probable que diseñe sus productos de manera que sean más reutilizables, reciclables y que reduzcan el uso de elementos nocivos para el ambiente.
 
-## Descripción
+## Mecanismo
 El equipo define una regla que describa qué significa completar una tarea. Luego el compromiso de llevar a cabo una tarea implicará completarla según esa regla.
 De esta manera, la persona que toma el compromiso realiza todas las actividades necesarias antes de poder dar por completada la tarea, pudiendo incluso realizarlas en paralelo si hubiera tiempos muertos.
 Por ejemplo, en una organización que desarrolla software, una regla sería: “El equipo que desarrolla una aplicación es responsable de su mantenimiento y operación”.
