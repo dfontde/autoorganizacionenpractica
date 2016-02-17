@@ -11,32 +11,33 @@ En muchos casos existe la necesidad de asignar personas a equipos a lo largo del
 
 ![Distribución funcional](/images/TribusCaminantes1.jpg "La distribución de equipos en ese momento se veía más o menos así. Estaban divididos por especialidad")
 
-Venía trabajando como consultor hacía varios meses. Tenía un buen diálogo con César, con el que explorábamos alternativas ante cada situación. Mi rol en las discusiones casi siempre era el de embajador de la autoorganización. Cuando surgió la iniciativa de rearmar los equipos, costó convencer a César, como casi siempre, que la autoorganización en este caso no llevaría al caos y, por ende, la perdición. Entre sus fantasías apocalípticas aparecían equipos increíblemente ineficientes, amiguismos contraproducentes, discusiones eternas durante el armado y personalidades dominantes. Y hasta el efecto tiro por la culata: si la solución definida de forma autoorganizada no le llegaba a convencer, el resto de la empresa iba a empezar a verlo como un dictador caprichoso.
+>Venía trabajando como consultor hacía varios meses. Tenía un buen diálogo con César, con el que explorábamos alternativas ante cada situación. Mi rol en las discusiones casi siempre era el de embajador de la autoorganización. Cuando surgió la iniciativa de rearmar los equipos, costó convencer a César, como casi siempre, que la autoorganización en este caso no llevaría al caos y, por ende, la perdición. Entre sus fantasías apocalípticas aparecían equipos increíblemente ineficientes, amiguismos contraproducentes, discusiones eternas durante el armado y personalidades dominantes. Y hasta el efecto tiro por la culata: si la solución definida de forma autoorganizada no le llegaba a convencer, el resto de la empresa iba a empezar a verlo como un dictador caprichoso.
 
-En caso de seguir la alternativa autoorganizada, el riesgo de una mala solución alejaba a César de animarse. Para bajar ese riesgo, propuse que el resultado de la actividad autoorganizada sea una mera información, que usaría César para eventualmente tomar la decisión final. Con esta válvula de seguridad, César decidió llevar adelante la actividad.
+>En caso de seguir la alternativa autoorganizada, el riesgo de una mala solución alejaba a César de animarse. Para bajar ese riesgo, propuse que el resultado de la actividad autoorganizada sea una mera información, que usaría César para eventualmente tomar la decisión final. Con esta válvula de seguridad, César decidió llevar adelante la actividad.
 
-Organizamos un encuentro con todos los involucrados, planteamos el objetivo del cambio y aclaramos que los resultados obtenidos en esta actividad no eran vinculantes.
+>Organizamos un encuentro con todos los involucrados, planteamos el objetivo del cambio y aclaramos que los resultados obtenidos en esta actividad no eran vinculantes.
 Realizamos el encuentro en un espacio amplio, en el que podía alternar rápidamente entre dialogar sentados y caminar libremente. Mi rol durante toda la actividad fue el de facilitador, interviniendo lo menos posible.
 
-Construimos entre todos una lista inicial de posibles estructuras de equipos, independientemente de quiénes serían sus miembros.
+>Construimos entre todos una lista inicial de posibles estructuras de equipos, independientemente de quiénes serían sus miembros.
 
 ![Posibles estructuras](/images/TribusCaminantes2.jpg "Estos son tres ejemplos de posibles estructuras de equipos. Cada equipo sabe hacer entre uno y tres tipos de producto. En todos los casos, son capaces de hacerlos de principio a fin (esto implica que debe haber al menos una persona de cada especialidad en cada equipo).")
 
-Luego recorrimos esa lista, buscando alternativas de distribución de personas a equipos. Marcamos con claridad distintas zonas en el piso de la sala, que se correspondían con los distintos equipos que formaríamos, explicitando los conocimientos necesarios para cada uno. Todos los participantes se reunían en el centro, para luego caminar libremente hacia el equipo que integrarían.
+>Luego recorrimos esa lista, buscando alternativas de distribución de personas a equipos. Marcamos con claridad distintas zonas en el piso de la sala, que se correspondían con los distintos equipos que formaríamos, explicitando los conocimientos necesarios para cada uno. Todos los participantes se reunían en el centro, para luego caminar libremente hacia el equipo que integrarían.
 
 ![Ejemplo 2 equipos](/images/TribusCaminantes3.jpg "Así se veía la sala desde arriba. Las dos zonas -una para cada equipo- marcadas en el piso y todas las personas en el centro.")
 
-Una vez estabilizada la distribución, yo le preguntaba al grupo completo si esta alternativa era una solución válida. Para responder sobre la validez, abría un debate y, si había acuerdo, registrábamos la alternativa en una pared de la sala.
+>Una vez estabilizada la distribución, yo le preguntaba al grupo completo si esta alternativa era una solución válida. Para responder sobre la validez, abría un debate y, si había acuerdo, registrábamos la alternativa en una pared de la sala.
 
 ![Ejemplo 2 equipos ya asignados](/images/TribusCaminantes4.jpg "Una vez estabilizada la distribución de equipos, la sala quedaba así, con todas las personas asignadas a un equipo. Esto lo fuimos repitiendo varias veces, buscando variantes de asignación para esta estructura.")
 
-Repetimos esta dínámica de ir al centro y luego a los equipos hasta que el grupo entendía que esa estructura de equipos estaba agotada.
+>Repetimos esta dínámica de ir al centro y luego a los equipos hasta que el grupo entendía que esa estructura de equipos estaba agotada.
 
 ![Ejemplo 3 equipos](/images/TribusCaminantes5.jpg "Luego intentamos con otras estructuras de equipos, en este caso eran tres equipos, uno para cada tipo de producto.")
 
-Finalmente revisamos en grupo todas las alternativas, cada persona votó su favorita y analizamos pros y contras de las mismas. Cerré la actividad recordando que el resultado no era vinculante.
+>Finalmente revisamos en grupo todas las alternativas, cada persona votó su favorita y analizamos pros y contras de las mismas. Cerré la actividad recordando que el resultado no era vinculante.
 César utilizó esta información para diseñar los equipos que finalmente se implementaron”.
-Alan
+
+<p align=“right”>Alan</p>
 
 ## Mecanismo
 Tribus caminantes implica, en general:
@@ -63,7 +64,7 @@ Advertencias:
 * De acuerdo a la Ley de Conway, la arquitectura del producto puede influenciar el armado de los equipos y viceversa.
 
 ## Patrones relacionados
-Para la selección de la alternativa al final del patrón pueden utilizarse los patrones de **Decisión Participativa**.
+Para la selección de la alternativa final pueden utilizarse los patrones de **Decisión Participativa**.
 Puede utilizarse el patrón de **Polinización Cruzada** si fuera necesario que el grupo se conozca, de manera tal que pueda tomar una decisión más informada.
 
 
