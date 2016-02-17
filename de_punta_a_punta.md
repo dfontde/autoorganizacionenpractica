@@ -18,15 +18,15 @@ Por ejemplo, en una organización que desarrolla software, una regla sería: “
 
 
 ## Consecuencias
-Listamos a continuación algunas ventajas y desventajas de su uso.
+Hacer las cosas **De punta a punta** tiene como consecuencias:
 
-Ventajas:
+Ventajas
 * Cuando se tiene responsabilidad por la tarea completa, se tiende a ser más consciente de las consecuencias de las acciones, y a pensar las actividades con una mirada holística, como en el ejemplo del fabricante de electrodomésticos.
 * En general, se minimiza la cantidad de trabajo en progreso. En ejemplo de la cocina, desde el primer momento se minimiza la cantidad de utensilios utilizados.
 * Se puede optimizar el uso de los tiempos muertos al realizar las actividades en paralelo.
 * Si alguna de las actividades es menos atractiva para algunos integrantes del equipo, este mecanismo permite que esas personas hagan también otra actividad. Por ejemplo, si a alguien no le gusta lavar y sí cocinar, hace una que le gusta y una que no.
 
-Desventajas:
+Desventajas
 * Requiere una mirada y conocimientos más amplios. Volviendo al ejemplo anterior, diseñar un electrodoméstico atractivo requiere conocimientos distintos a disminuir el impacto ambiental del mismo.
 * Las persones pueden potencialmente estar obligadas a hacer actividades que no les gustan.
 * Puede promover un excesiva agitación o paralelismo improductivo. Por ejemplo, intentar lavar con una mano mientras revolvemos la sopa con la otra.

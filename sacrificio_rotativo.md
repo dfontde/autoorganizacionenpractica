@@ -25,12 +25,19 @@ Para implementar el **Sacrificio rotativo**, el equipo debe:
 * Organizar una dinámica de traspaso.
 
 ## Consecuencias
-Aumenta el foco del equipo al disminuir las interrupciones.
-El equipo limita explícitamente la capacidad dedicada a la realización de estas actividades.
-El conocimiento específico que cada integrante del equipo tenía se difunde entre los demás integrantes del equipo, haciendo que el equipo no dependa tan fuertemente de cada uno de sus integrantes. De esta manera, se hace más tolerante a ausencias temporales o permanentes.
-Hay un costo asociado a la inversión de trabajar juntos para difundir el conocimiento, puede impactar en el desempeño durante el período de aprendizaje cruzado.
-La eficiencia en la resolución de las tareas puede disminuir cuando el que las resuelve no es el especialista.
-Algunas actividades poco atractivas son resultado de problemas evitables. **Sacrificio rotativo** puede hacer aceptar como inevitable y natural un comportamiento que podría mejorarse.
+Hacer **Sacrificio rotativo** tiene como consecuencias:
+
+Ventajas
+* Aumenta el foco del equipo al disminuir las interrupciones.
+* Limita explícitamente la capacidad dedicada a la realización de estas actividades.
+* El conocimiento específico que cada integrante del equipo tenía se difunde entre los demás integrantes del equipo, haciendo que el equipo no dependa tan fuertemente de cada uno de sus integrantes. De esta manera, se hace más tolerante a ausencias temporales o permanentes.
+
+Desventajas
+* La eficiencia en la resolución de las tareas puede disminuir cuando el que las resuelve no es el especialista.
+
+Advertencias
+* Hay un costo asociado a la inversión de trabajar juntos para difundir el conocimiento, puede impactar en el desempeño durante el período de aprendizaje cruzado.
+* Algunas actividades poco atractivas son resultado de problemas evitables. **Sacrificio rotativo** puede hacer aceptar como inevitable y natural un comportamiento que podría mejorarse.
 
 ## Patrones relacionados
 En el caso de actividades poco atractivas, una solución alternativa es asignarlas **De punta a punta**, donde se balancean las actividades poco atractivas con otras más atractivas.

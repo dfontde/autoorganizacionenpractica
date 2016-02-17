@@ -49,16 +49,16 @@ Tribus caminantes implica, en general:
 * Revisar las configuraciones alternativas y seleccionar una alternativa.
 
 ## Consecuencias
-Listamos a continuación algunas ventajas y desventajas de su uso.
+Usar **Tribus Caminantes** tiene como consecuencia:
 
-Ventajas:
+Ventajas
 * Promueve que los miembros de los equipos se sientan satisfechos con la asignación resultante al haber participado de la decisión.
 * La multiplicidad de miradas tiende a incorporar al proceso criterios no explicitados previamente. Por ejemplo, ciertos criterios difíciles de codificar y percibir externamente, como la afinidad entre dos personas, pueden afectar sensiblemente el resultado.
 * Se analizan muchas alternativas en poco tiempo.
 * Usar el cuerpo durante el proceso tiende a producir mayor compromiso e involucramiento.
 * Se evitan errores porque cada alternativa es evaluada por más miradas.
 
-Advertencias:
+Advertencias
 * Los participantes pueden tener vergüenza de moverse al principio. Para evitar esto, puede servir indicar a los participantes que inicialmente hagan una ronda de caminata alrededor de todos los equipos.
 * El encuentro puede hacer emerger ciertos conflictos subyacentes, en particular si hay personas de distinto nivel jerárquico o intereses contrapuestos.
 * De acuerdo a la Ley de Conway, la arquitectura del producto puede influenciar el armado de los equipos y viceversa.
