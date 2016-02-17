@@ -39,3 +39,4 @@ Los siguientes patrones tratan también sobre cómo realizar tareas que nadie qu
 * En **Limpiamos todos** se comparte la tarea.
 * En **Sacrificio rotativo** se rota la asignación de una manera predeterminada.
 * En **Primero lo peor** se acuerda hacer primero la tarea ingrata.
+
