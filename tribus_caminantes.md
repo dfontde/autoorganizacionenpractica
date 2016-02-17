@@ -40,7 +40,7 @@ Realizamos el encuentro en un espacio amplio, en el que podía alternar rápidam
 César utilizó esta información para diseñar los equipos que finalmente se implementaron”.
 
 ## Mecanismo
-Tribus caminantes implica, en general:
+**Tribus caminantes** implica, en general:
 * Reunir al grupo completo de personas a asignar.
 * Identificar los subgrupos.
 * Marcar zonas distintas del espacio identificándolas con cada subgrupo.
