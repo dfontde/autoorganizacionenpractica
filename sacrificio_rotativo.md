@@ -15,7 +15,7 @@ En una reunión de mejora, alguien propuso que esa tarea la tomara una sola pers
 
 Finalmente, encontraron una forma basada en designar una persona para dar soporte a los usuarios, rotando la asignación de esa responsabilidad en forma semanal. Decidieron llamar Bombero a esa persona. Las primeras semanas, el Bombero podía pedir ayuda mientras aprendía sobre los temas con los que no estaba familiarizado, y con el tiempo los Bomberos fueron logrando mayor autonomía. Esta ayuda consistía en trabajar juntos en resolver el problema para que el Bombero aprendiera. En ocasiones, si el pedido transcendía la semana (porque llegaba sobre el final o simplemente porque requería varios días para completarlo) el nuevo Bombero iniciaba su gestión un poco antes para recibir del Bombero saliente la información sobre los pedidos no resueltos.
 
-## Descripción/Mecanismo
+## Mecanismo
 
 Para implementar el **Sacrificio rotativo**, el equipo debe:
 * Tomar conciencia de que hay una o varias actividades poco atractivas o que solamente pueden realizar ciertas personas.
