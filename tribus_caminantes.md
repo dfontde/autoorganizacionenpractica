@@ -7,6 +7,7 @@ Equipos autoasignados
 
 ## Motivación
 En muchos casos existe la necesidad de asignar personas a equipos a lo largo del tiempo y de balancear múltiples variables a la hora de decidir a qué equipo se incorpora cada persona.
+
 Cuenta Alan:
 >“La empresa Vincendon avanzaba a buen paso en su adopción de la autoorganización. Sus 3 equipos, que sumaban 20 personas en total, ya tenían un buen grado de autoorganización y disciplina. Cada uno de esos equipos se ocupaba de una parte muy pequeña del producto completo, y para r	esolver casi cualquier problemática del usuario los 3 equipos debían intervenir. Esto creaba varios problemas, entre ellos la dificultad a la hora de coordinar el trabajo y la responsabilidad cuando algo salía, simplemente, mal. Había llegado el momento, sentían algunos de ellos, de pasar a trabajar en equipos multidisciplinarios. César, uno de los dueños de Vincendon y propulsor del cambio, entendía que tenía un problema complejo entre manos. Su intuición lo llevaba a encerrarse en una sala durante días, pensando y pensando, hasta la llegar a la solución ideal.
 
