@@ -5,7 +5,7 @@ Rotar periódicamente las tareas poco atractivas.
 ## Alias
 Bombero voluntario
 
-## Contexto
+## Motivación
 
 En aquel equipo de desarrollo de software de DesPur a nadie le gustaba dar soporte a los usuarios de software. Esta tarea casi siempre llegaba al equipo de forma inesperada y los interrumpía, afectando su trabajo cotidiano. Se trataba de pedidos de ayuda relacionados con el uso del software o errores en el mismo. Los usuarios llamaban a la persona con la que tenían más confianza, por ejemplo la gente de administración siempre llamaba a Alejandro, los de infraestructura molestaban a Karina y así cada persona del equipo sufría frecuentemente estos pedidos disruptivos en su trabajo diario.
 
