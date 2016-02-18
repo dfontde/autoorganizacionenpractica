@@ -6,12 +6,21 @@
 Partamos de una definición genérica y llevemosla al sentido específico que le daremos en este libro:
 > La **autoorganización** es un proceso en el que alguna forma global de orden o coordinación surge de las interacciones locales entre los componentes de un sistema inicialmente desordenado. Este proceso es espontáneo: no está dirigido ni controlado por ningún agente o subsistema dentro o fuera del sistema. Sin embargo las leyes seguidas por el proceso y sus condiciones iniciales pueden escogerse o ser causadas por un agente. Wikipedia
 
-De la definición podemos tomar algunos términos y reemplazarlos por el uso que le daremos en el libro:
+Para el contexto de este libro, la definición podría entenderse mejor reemplazarlos algunos terminos:
 * componentes: personas
 * sistema: grupo
-* agente o subsistema: jefe
+* dirigido ni controlado por ningún agente o subsistema: dirigido ni controlado por ningún jefe
 
-La **autoorganización** es un proceso en el que alguna forma global de orden o coordinación surge de las interacciones locales entre las personas de un grupo inicialmente desordenado. Este proceso es espontáneo: no está dirigido ni controlado por ningún jefe dentro o fuera del sistema. Sin embargo las leyes seguidas por el proceso y sus condiciones iniciales pueden escogerse o ser causadas por un jefe.
+>La **autoorganización** es un proceso en el que alguna forma global de orden o coordinación surge de las interacciones locales entre las personas de un grupo inicialmente desordenado. Este proceso es espontáneo: no está dirigido ni controlado por ningún jefe dentro o fuera del sistema. Sin embargo las leyes seguidas por el proceso y sus condiciones iniciales pueden escogerse o ser causadas por un agente.
+
+Y nos gusta una definición aún más escueta:
+> Los grupos autoorganizados son aquellos que toman decisiones, deciden qué y cómo hacer sus actividades y resuelven sus problemas internos por si mismo, salvo quizás límites o retricciones definidos externamente.
+
+Para aclarar, veamos algunos ejemplos para cada parte de la última definición.
+* Toman decisiones por sí mismos: "¿Cómo nos reorganizamos en subgrupos, para mejorar nuestros resultados?". Ver el patrón Tribus Caminantes.
+* Deciden qué y cómo hacer sus actividades: "¿Con que actividades podemos comprometernos en este período de tiempo? ¿Cómo dividimos el trabajo entre nosotros?". Ver las ceremonias de Panificación Estratégica y Táctica en Scrum y el patrón **De punta a punta**.
+* Resuelven sus problemas internos: "¡Esta actividad siempre lo hago yo!". Ver el patrón **Sacrificio rotativo**.
+* Límites o restricciones definidos externamente: "Como operamos en Bolsa, nuestras actividades deben cumplir con normas de la Bolsa". Ver patrón **Reglas Generativas**.
 
 En esta la definición tomamos una escala, al hablar de grupos, que va entre 3 y 150 personas (tomando el número de Dunbar). Si bien la autoorganización tiene muchos paralelos con los procesos políticos, nos enfocamos a prácticas y experiencias relacionadas con grupos. Aunque a veces usemos ejemplos políticos.
 
